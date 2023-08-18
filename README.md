@@ -18,7 +18,7 @@ Simple no-frills note taking web app.  Polished front-end, Express serving the b
 
 ## Links
 ### [Link to repo](https://github.com/elcaine/11-Take-Them-Notes)
-### [Link to video NEED TO CHANGE](https://www.youtube.com/watch?v=EBqvwCcB5wg)
+### [Link to app](https://take-them-hero-notes-71b415358b49.herokuapp.com/)
 
 ### Acknowledged sources
 - Express logic based on Activity 28 from this module.
